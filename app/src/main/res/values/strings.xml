@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="semua_tugas_seleasai">Semua Tugas Seleasai</string>
+    <string name="kerja_bagus">Kerja Bagus!</string>
+</resources>
